@@ -1,3 +1,3 @@
 <?php
-include('./vpnn.html');
+include('./index.html');
 ?>
